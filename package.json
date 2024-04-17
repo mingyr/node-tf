@@ -1,0 +1,12 @@
+{
+    "name": "node-tf",
+    "description": "An example project demonstrates how to use tensorflow models in applications",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows.json",
+            "credentialsFile": "flows_cred.json"
+        }
+    }
+}
